@@ -11,6 +11,8 @@ namespace MANUAL
         static void Main(string[] args)
         {
             Console.WriteLine("Manual");
+            Console.WriteLine("Finished Manual");
+            Console.ReadKey();
         }
     }
 }
